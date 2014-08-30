@@ -27,3 +27,9 @@ NCA Outrigger is part of NCAWPA which includes the DC Dragons dragon boat club a
 * [Facebook Group](https://www.facebook.com/groups/8460288797/)
 * [Mailing list for Outrigger](https://groups.google.com/forum/#!forum/paddledcoc)
 * [Mailing list mainly for dragonboat](https://groups.yahoo.com/neo/groups/PaddleDC/info)
+
+# General Outrigger
+
+[Ecora website](http://www.eastcoastoutrigger.com/)
+[Ecora mailing list](https://groups.google.com/forum/#!forum/eastcoastoutrigger)
+
