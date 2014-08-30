@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-07-28 14:00:41
-categories: jekyll update
+tags: jekyll tagtest
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
@@ -20,5 +20,6 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
+[jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll]:    http://jekyllrb.com

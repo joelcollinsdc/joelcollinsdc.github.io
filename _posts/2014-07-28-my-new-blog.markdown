@@ -1,15 +1,19 @@
 ---
 layout: post
-title:  "A Jekyll Blog"
-date:   2014-07-28 15:00:41
-categories: jekyll canoeing
+title:  "More Experiments"
+date:   2014-07-29 11:39:00
+categories:
 ---
 
-About time I started to blog, mostly to force myself to learn things and write about what I learn.  [Jekyll] seems pretty intuitive so far.
+Today I'm practicing adding more stuff.  This should be a picture of a church:
 
-I wonder how tags work.  I'm reading about canoeing right now, so I'm tagging this blog post with canoeing.  But I don't know how to link to it yet.
+![Church](/assets/church.jpg)
 
-I'm reading [Canoe Racing] right now, its getting me pumped to learn how to make boats go fast.
+I want to add this stuff to my website today:
 
-[Jekyll]: http://www.jekyllrb.com
-[Canoe Racing]: http://www.amazon.com/Canoe-Racing-Competitors-Marathon-Downriver/dp/0941950379
+*  photos &#x2713;
+*  timeline
+*  about
+*  interests
+*  resume
+*  projects
