@@ -22,6 +22,7 @@ There are over 9000 spreadsheets and websites that I need to track of for paddli
 NCA Outrigger is part of NCAWPA which includes the DC Dragons dragon boat club and various other clubs
 
 * [http://www.ncawpa.org/nca-outrigger.html](http://www.ncawpa.org/nca-outrigger.html)
+** The [NCAWPA Resources Page](http://www.ncawpa.org/resources.html) has a list of who is approved to use the small boats and also the small boat reservation spreadsheet.  (You have to email Ruth to reserve one though...)
 * [Practice Signup](https://docs.google.com/spreadsheet/ccc?key=0Au45_-1-QPn0cFFVNHA0QWN5cUw0ejZTR2RKTVY5UFE#gid=0)
 * [Small Boat Reservations](https://docs.google.com/spreadsheet/ccc?key=0AoSR_CxzM9I0dEVLZ2lSVHV4U3YtZWtpcWlSZHBTcEE&usp=drive_web#gid=0)
 * [Facebook Group](https://www.facebook.com/groups/8460288797/)
