@@ -16,6 +16,9 @@ There are over 9000 spreadsheets and websites that I need to track of for paddli
 
 * [DP Availability Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AosU52J5ACITdHpnNllpYUZOdWZ2T3VhbXdLRlA1VGc&usp=drive_web#gid=8)
 
+# General Dragonboat
+
+* [this insanity](http://www.network54.com/Forum/135730/)
 
 # NCA Outrigger
 
