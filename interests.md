@@ -6,10 +6,9 @@ permalink: /interests/
 
 # Things I'm currently working on
 
-* jekyll & other ssg's
+* A seating app to help you select a seating arrangement for a dragonboat based on weight, power, side prerences, etc
 
 #  Things I want to learn
-
 
 * Node
 * clojure
