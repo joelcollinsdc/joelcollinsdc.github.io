@@ -27,6 +27,7 @@ NCA Outrigger is part of NCAWPA which includes the DC Dragons dragon boat club a
 * [http://www.ncawpa.org/nca-outrigger.html](http://www.ncawpa.org/nca-outrigger.html)
   * The [NCAWPA Resources Page](http://www.ncawpa.org/resources.html) has a list of who is approved to use the small boats and also the small boat reservation spreadsheet.  (You have to email Ruth to reserve one though...)
 * [Practice Signup](https://docs.google.com/spreadsheet/ccc?key=0Au45_-1-QPn0cFFVNHA0QWN5cUw0ejZTR2RKTVY5UFE#gid=0)
+* [DC Over 40 Spreadsheet](https://docs.google.com/spreadsheets/d/1nmMnGNfW8p4DA440p79ldsTXxnAk_xPlNRom4-c4Azc/edit#gid=1985401881) is where to sign up for the performance workouts at 6am
 * [Small Boat Reservations](https://docs.google.com/spreadsheet/ccc?key=0AoSR_CxzM9I0dEVLZ2lSVHV4U3YtZWtpcWlSZHBTcEE&usp=drive_web#gid=0)
 * [Facebook Group](https://www.facebook.com/groups/8460288797/)
 * [Mailing list for Outrigger](https://groups.google.com/forum/#!forum/paddledcoc)
