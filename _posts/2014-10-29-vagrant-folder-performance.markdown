@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Vagrant Shared Folder (NFS / Rsync) Performance
-date: {}
+date: 2014-11-29
 published: true
 ---
-
-
-### Test
 
 
 Disclaimer... I'm still learning vagrant & virtualization.
