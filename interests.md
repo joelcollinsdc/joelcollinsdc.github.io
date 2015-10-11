@@ -4,15 +4,32 @@ title: Interests and Projects
 permalink: /interests/
 ---
 
-# Things I'm currently working on
+# Things I'm working on
 
-* A seating app to help you select a seating arrangement for a dragonboat based on weight, power, side prerences, etc
+(outside of work)
+
 * Quote generation website for a customer (rails)
-* Deployment system for our dragonboat website
+* A seating app to help you select a seating arrangement for a dragonboat based on weight, power, side prerences, etc
+* The [Congress Legislators](https://github.com/joelcollinsdc/congress-legislators/tree/house-clerk-xml) github repo
 
-#  Things I want to learn
+## Things I know pretty well
 
-* Node
+* All the fundamentals (SQL, JS, HTTP, HTTPS, ...)
+* Drupal
+* Ruby / Rails
+* .NET (C#)
+* Network diagnostics & performance tuning
+
+## Things I know somewhat well
+
+* Python
+* Devops (Vagrant, Jenkins)
+* Linux / Bash
+
+## Things I am learning
+
+* jekyll / hugo
+* node
 * clojure
 * docker
 * ansible
