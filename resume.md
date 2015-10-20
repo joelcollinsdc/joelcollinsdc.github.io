@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-I'm a web developer passionate about using technology to make peoples lives better.
+I'm a web developer passionate about using technology to make people's lives better.
 
 ## Work
 
