@@ -8,7 +8,7 @@ permalink: /interests/
 
 (outside of work)
 
-* Quote generation website for a customer (rails)
+* React SPA for small businesses that are using google calendar as a tracking tool for managing their customers more efficiently 
 * A seating app to help you select a seating arrangement for a dragonboat based on weight, power, side prerences, etc
 * The [Congress Legislators](https://github.com/joelcollinsdc/congress-legislators/tree/house-clerk-xml) github repo
 

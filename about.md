@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a developer in the Washington DC area.  At work most of my time and effort is spent trying to force Drupal to do things it wasn't designed to do.  Outside of work I tinker with various projects to help the various paddling teams I belong to.
+I'm a paddler and software developer that recently moved to the Denver area.  I started my professional career as a consultant, usually helping large enterprise customers remediate application performance issues and help them scale better.  Later I transitioned to a software developer for the US House of Representatives.  Since 2016 I've been travelling and working as a freelancer.  Throughout my career I've been a jack of all trades that is eager to roll up their sleeves and get involved whenever a need arises.  Outside of work, I try to stay involved in the open government community as well as building solutions for my local paddling clubs when necessary.
 
-My github is pretty empty right now, as drupal.org is the home of a lot of my work, but I intend to change that.
-
-In my spare time, I am a member of [DCDBC](http://dcdragonboat.org) and [NCAWPA](http://ncawpa.org) and spent a big portion of my free time on the Anacostia or Potomac rivers.  I'm facinated by the sport of canoe paddling and am eager to try marathon next year.
+In my spare time, I am an avid Dragon Boat and Outrigger Canoe paddler. I've raced across the US as well as in Canada and Panama, and I'll be representing Team USA in China in October 2017.  Although the Denver area is somewhat devoid of large lakes, the energy here is addictive and I am eager to get involved.
 
